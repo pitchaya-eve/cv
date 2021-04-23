@@ -14,7 +14,7 @@
       <td>
         <h1>Pitchaya Lakool</h1>
         <p>Frontend Developer</p>
-        <p>I'm graduated from King Mongkut's Institute of Technology Ladkrabang, Department of <em>Computer Engineering</em></p>
+        <p>I'm graduated from Department of <em>Computer Engineering</em>,<br>King Mongkut's Institute of Technology Ladkrabang</p>
       </td>
     </tr>
   </table>
